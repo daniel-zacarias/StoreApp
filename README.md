@@ -28,14 +28,6 @@ A aplicação segue os princípios da **Clean Architecture**, garantindo:
 > 📌 Camadas principais:  
 `Domain` → `Application (Use Cases)` → `Infrastructure` → `Interface (Controllers)`
 
----
-
-## 🖼️ Diagrama da Arquitetura
-
-![Diagrama da Clean Architecture para Loja de Roupas](./path/para/sua-imagem.png)
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - Java 21 
